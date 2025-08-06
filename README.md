@@ -2,6 +2,9 @@
 
 A Node.js REST API for user management built with Express.js and MongoDB.
 
+# Deployed Link for Direct Testing
+[deployed-link](https://fort4-server.vercel.app/api/users)
+
 ## Tech Stack
 
 - Node.js
